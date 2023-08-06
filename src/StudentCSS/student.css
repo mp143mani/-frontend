@@ -13,7 +13,7 @@
 
 
 .sidebar{
-    background: #000;
+    background: #8c8c8c;
     color: #fff;
     height: 1000px;
     width: 200px;
@@ -45,7 +45,7 @@
     transition: all 0.5s;
 }
 .active{
-    background: lightskyblue;
+    background: rgb(109, 109, 109);
     color: #000;
 }
 .icon, .link_text{
