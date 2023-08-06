@@ -1,5 +1,5 @@
 const env = {
-    apiurl: "https://zendashback.onrender.com"
+    apiurl: "https://dash-5cxz.onrender.com"
 }
 
 export default env;
