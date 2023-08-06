@@ -25,24 +25,24 @@ function ModalNew() {
         </Modal.Header>
         <Modal.Body>
         <div>
-          <h3>Initial Essentials To Run App</h3>
+          <h3>Email id & Password</h3>
           <div>
           <h4>Cordinator</h4>
-          <p>Cordinator has rights to add cordinator, student and teacher into the organization workspace</p>
-          <p>Email: 1999shubhamjoshi@gmail.com</p>
-          <p>Password: 123</p>
+        
+          <p>Email:mani@gmail.com</p>
+          <p>Password:mani1234</p>
           </div>
           <div>
           <h4>Teacher</h4>
-          <p>Teacher has rights to assign task, webcode task, interview task , to take query,put remarks over query, Provide marks to differant tasks </p>
-          <p>Email: teacher@gmail.com</p>
-          <p>Password:teacher@123</p>
+          
+          <p>Email:amuthan@gmail.com</p>
+          <p>Password:abcd1234</p>
 </div>
            <div>
           <h4>Student</h4>
-          <p>Student has rights to see updates regarding next actions such as class schedules ,to submit task & to raise query </p>
-          <p>Email: student@gmail.com</p>
-          <p>Password: student@123</p>
+          
+          <p>Email: ruba@gmail.com</p>
+          <p>Password: abcd1234</p>
           </div>
           </div>
         </Modal.Body>
