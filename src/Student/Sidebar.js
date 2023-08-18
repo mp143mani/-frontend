@@ -60,7 +60,7 @@ const Sidebar = ({ children }) => {
     <div style={{ width: isOpen ? "13rem" : "3rem" }} className="sidebar">
       <div className="top_section">
         <h1 style={{ display: isOpen ? "block" : "none" }} className="logo">
-          ZEN
+          Student
         </h1>
         <div style={{ marginLeft: isOpen ? "3rem" : "0rem" }} className="bars">
           <FaBars onClick={toggle} />

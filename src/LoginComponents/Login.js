@@ -63,8 +63,8 @@ function Login() {
     <>
       <div className="container-fluid wallpaper">
         <div className="login-wrapper ">
-          <h1>Welcome to ZEN Class</h1>
-          <p>Login to Continue!</p>
+          <h1>ManiTechWorld!</h1>
+          <p>Login to Here</p>
           <Form>
             <Form.Group className="mb-3">
               <Form.Label>Email address</Form.Label>
