@@ -63,7 +63,10 @@ function Login() {
     <>
       <div className="container-fluid wallpaper">
         <div className="login-wrapper ">
-          <h1>ManiTechWorld!</h1>
+    <a href="https://ibb.co/ggCxdvG"><img src="https://i.ibb.co/dKyRtbS/Logo-0268ac4ba8f24691976d.png" alt="Logo-0268ac4ba8f24691976d" border={0} /></a>
+
+
+          <h1>Welcome ManiTechWorld!</h1>
           <p>Login to Here</p>
           <Form>
             <Form.Group className="mb-3">
