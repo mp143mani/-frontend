@@ -41,7 +41,7 @@ function ModalNew() {
            <div>
           <h4>Student</h4>
           
-          <p>Email: ruba@gmail.com</p>
+          <p>Email: hari@gmail.com</p>
           <p>Password: abcd1234</p>
           </div>
           </div>
